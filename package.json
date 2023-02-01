@@ -1,0 +1,23 @@
+{
+  "name": "rotating-navigation",
+  "version": "1.0.0",
+  "description": "It is a page with a simple article, which has a small navigation icon, that is in the upper left corner, which, when clicked, changes its status to closed and rotates the entire site, bringing the navigation items on the left side to the screen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gisellebm/rotating-navigation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gisellebm/rotating-navigation/issues"
+  },
+  "homepage": "https://github.com/Gisellebm/rotating-navigation#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
